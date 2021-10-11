@@ -5622,9 +5622,10 @@ etag@~1.8.1:
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
 
-ethereum-multicall@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/ethereum-multicall/-/ethereum-multicall-2.0.2.tgz#7daec5d1960cfcde878734599b7349fa37e10292"
+ethereum-multicall@^2.8.0:
+  version "2.9.0"
+  resolved "https://registry.yarnpkg.com/ethereum-multicall/-/ethereum-multicall-2.9.0.tgz#12ec9bda703a257b02c76c564f7e52038d06232c"
+  integrity sha512-KCe51v42DDk3Ed0/DJaESymned4P9yQ6bJdpY+PlKGcPYmD6p/5yMThQr8G27V+REUVHY5L1zc7r0n4XAO/0mQ==
   dependencies:
     "@ethersproject/providers" "^5.0.10"
     ethers "^5.0.15"
