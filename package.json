@@ -47,7 +47,7 @@
         "styled-components": "^5.3.0",
         "styled-icons": "^10.37.0",
         "typesaurus": "^7.2.0",
-        "typescript": "^4.1.2",
+        "typescript": "^4.4.3",
         "web-vitals": "^1.0.1"
     },
     "scripts": {
