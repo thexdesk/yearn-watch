@@ -23,7 +23,7 @@
         "bignumber.js": "^9.0.1",
         "compare-versions": "^3.6.0",
         "dotenv": "^8.2.0",
-        "ethereum-multicall": "^2.0.2",
+        "ethereum-multicall": "^2.8.0",
         "ethers": "^5.0.32",
         "firebase": "^8.7.1",
         "firestore-export-import": "^0.15.0",
