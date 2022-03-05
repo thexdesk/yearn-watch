@@ -26,7 +26,7 @@
         "ethereum-multicall": "^2.0.2",
         "ethers": "^5.0.32",
         "firebase": "^8.7.1",
-        "firestore-export-import": "^0.15.0",
+        "firestore-export-import": "^0.18.0",
         "global": "^4.4.0",
         "highcharts": "^9.0.1",
         "highcharts-react-official": "^3.0.0",
